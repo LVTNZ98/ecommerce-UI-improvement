@@ -44,8 +44,6 @@ ecommerce-UI-improvement/
 ```
 
 `index.html` nạp stylesheet bằng đường dẫn tương đối `../CSS/styles.css`.
-Vì vậy, hãy giữ nguyên cấu trúc thư mục này hoặc cập nhật đường dẫn trong HTML
-nếu bạn di chuyển một trong hai tệp.
 
 ## Cách chạy
 
